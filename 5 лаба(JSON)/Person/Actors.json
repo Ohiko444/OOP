@@ -1,0 +1,34 @@
+[
+  {
+    "address": "Moscow, Red Square, 01",
+    "birthday": "1952-02-29",
+    "crime": true,
+    "friends": ["Хмырь", "Косой", "Доцент"],
+    "name": "Василий Алибабаевич",
+    "prisonterm": 5
+  },
+  {
+    "name" : "Доцент",
+    "address" : "Liningrad, Red Square, 02",
+    "birthday" : "1952-02-29",
+    "crime" : true,
+    "prisonterm" : 15,
+    "friends" : ["Хмырь", "Косой", "Василий"]
+  },
+  {
+    "address": "Kazan, Red Square, 03",
+    "birthday": "1952-02-29",
+    "crime": true,
+    "friends": ["Хмырь", "Косой", "Доцент"],
+    "name": "Хмырь",
+    "prisonterm": 5
+  },
+  {
+    "name" : "Косой",
+    "address" : "London, Red Square, 04",
+    "birthday" : "1952-02-29",
+    "crime" : true,
+    "prisonterm" : 5,
+    "friends" : ["Хмырь", "Косой", "Доцент"]
+  }
+]

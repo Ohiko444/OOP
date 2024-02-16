@@ -1,0 +1,42 @@
+[
+  {
+    "bodyType": "WAGON",
+    "engineType": "HYBRID",
+    "transmission": "AT",
+    "colour": "RED",
+    "model": "Toyota Prius Alpha",
+    "price": 1000000
+  },
+  {
+    "bodyType": "HATCHBACK",
+    "engineType": "ICE_GAS",
+    "transmission": "MT",
+    "colour": "BLACK",
+    "model": "Lada Kalina",
+    "price": 500000
+  },
+  {
+    "bodyType": "MINIVAN",
+    "engineType": "ICE_GASOLINE",
+    "transmission": "AT",
+    "colour": "YELLOW",
+    "model": "Nissan Serena V",
+    "price": 1700000
+  },
+  {
+    "bodyType": "COUPE",
+    "engineType": "ICE_DIESEL",
+    "transmission": "MT",
+    "colour": "BLUE",
+    "model": "Chevrolet Camaro VI",
+    "price": 3000000
+  },
+  {
+    "bodyType": "SEDAN",
+    "engineType": "ELECTRIC",
+    "transmission": "AT",
+    "colour": "WHITE",
+    "model": "Mercedes-Benz",
+    "price": 3500000
+  }
+]
